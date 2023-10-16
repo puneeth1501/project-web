@@ -6,27 +6,27 @@
 4) Act correctly, in time
 
 ## Recognize the importance of traffic Laws
-Road sign shapes and colors
-Understanding lane markings
+1) Road sign shapes and colors
+2) Understanding lane markings
 
 ## Recognize the six Deadly Choices and How to avoid them
-Speeding
-Violating right-of-way
-Distracted driving
-Turning improperly
-Driving left-of-center
-Following too closely
+1) Speeding
+2) Violating right-of-way
+3) Distracted driving
+4) Turning improperly
+5) Driving left-of-center
+6) Following too closely
 
 ## Factors Beyond a driver's Control
-Visibility
-Techniques for handling these factors
-Winter driving
-Fog, dust, smoke
-High winds
-Road conditions
+1) Visibility
+2) Techniques for handling these factors
+3) Winter driving
+4) Fog, dust, smoke
+5) High winds
+6) Road conditions
 
 ## Driving Attitudes and Behaviour
-Stressful driving situations
-Aggressive driving
-Impaired driving
-Drowsy driving
+1) Stressful driving situations
+2) Aggressive driving
+3) Impaired driving
+4) Drowsy driving
