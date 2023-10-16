@@ -1,9 +1,9 @@
 # project-web
 ## Define the NSC defensive Driving Defination and How to use it
-RUA defensive driver
-Recognize the hazard
-Understand the defense
-Act correctly, in time
+1) RUA defensive driver
+2) Recognize the hazard
+3) Understand the defense
+4) Act correctly, in time
 
 ## Recognize the importance of traffic Laws
 Road sign shapes and colors
